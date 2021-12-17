@@ -1,0 +1,5 @@
+/node_modules/
+/public/build/
+/build-electron-app/
+.DS_Store
+/svelte-app-win32-x64/

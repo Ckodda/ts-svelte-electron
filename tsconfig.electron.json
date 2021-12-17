@@ -1,0 +1,12 @@
+{
+  "include": ["electron"],
+  "exclude": ["src"],
+  "compilerOptions": {
+    "allowJs": true,
+    "target": "es2017",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "outDir": "./build-electron-app"
+  }
+}
